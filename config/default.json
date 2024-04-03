@@ -1,0 +1,12 @@
+{
+  "host": "localhost",
+  "port": 4001,
+  "public": "./public/",
+  "origins": [
+    "http://localhost:4001"
+  ],
+  "paginate": {
+    "default": 10,
+    "max": 50
+  }
+}
